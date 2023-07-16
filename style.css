@@ -49,6 +49,7 @@ body{
     border-radius: 10px;
     width: 50%;
     
+    
 }
 .result .heading{
     font-weight: 500px;
@@ -100,7 +101,7 @@ body{
     margin-right: 20px;
     justify-content: space-between;
     align-items: center;
-    height: 38px;
+    height: 50px;
     border-radius: 8px;
     padding-right: 10px;
 
@@ -148,7 +149,7 @@ body{
 }
 button{
     width: 219px;
-    height: 33px;
+    height: 40px;
     border-radius: 50px;
     background-color: var(--Dark-gray-blue);
     color: var(--White);
@@ -200,7 +201,7 @@ button:hover{
         background-image: linear-gradient(to bottom, var(--Light-slate-blue-background), var(--Light-royal-blue-background));
         border-radius: 0px 0px 36px 36px;
         width: 100%;
-        height: 40%;
+        height: 60%;
         
     }
     .result .heading{
@@ -253,7 +254,7 @@ button:hover{
         margin-left: 20px;
         justify-content: space-between;
         align-items: center;
-        height: 38px;
+        height: 50px;
         border-radius: 8px;
         padding-right: 10px;
     
@@ -266,7 +267,7 @@ button:hover{
     
     button{
         width: 85%;
-        height: 41px;
+        height: 50px;
         margin: 0px 7%;
         background-color: var(--Dark-gray-blue);
         color: var(--White);
